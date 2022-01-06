@@ -1,6 +1,6 @@
 # merge-solo
 that 
 is 
-good
+great
 words 
 
