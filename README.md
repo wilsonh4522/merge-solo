@@ -1,6 +1,6 @@
 # merge-solo
 that 
 is 
-bad
+good
 words 
 
