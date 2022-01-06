@@ -1,5 +1,6 @@
 # merge-solo
-<<<<<<< HEAD
+this 
+is 
+good
+words 
 
-=======
->>>>>>> 355690dfd2909cf05b80a13e11358777e1c66330
